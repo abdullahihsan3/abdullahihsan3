@@ -17,16 +17,16 @@
   &nbsp; &nbsp;
   <img src="swiftui.svg" width="48"/>
   &nbsp; &nbsp;
-  <img src="./upload/flutter-logo.svg" width="40"/>
+  <img src="flutter-logo.svg" width="40"/>
   &nbsp; &nbsp;
-  <img src="./upload/firebase.svg" width="56"/>
+  <img src="firebase.svg" width="56"/>
   &nbsp; &nbsp;
-  <img src="./upload/dart.svg" width="50"/>
+  <img src="dart.svg" width="50"/>
   &nbsp; &nbsp;
-  <img src="./upload/nodejs-1.svg" width="60"/>
+  <img src="nodejs-1.svg" width="60"/>
   &nbsp; &nbsp;
-  <img src="./upload/gcp.svg" width="50"/>
+  <img src="gcp.svg" width="50"/>
   &nbsp; &nbsp;
-  <img src="./upload/figma.svg" width="50"/>
+  <img src="figma.svg" width="50"/>
   &nbsp; &nbsp;
 </p>
