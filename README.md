@@ -9,15 +9,13 @@
 ### ⚡ Tools and Technologies
 
 <p>
-  <img src="./upload/html-1.svg" width="42"/>
+  <img src="html-1.svg" width="42"/>
   &nbsp; &nbsp;
-  <img src="./upload/css-3.svg" width="42"/>
+  <img src="css-3.svg" width="42"/>
   &nbsp; &nbsp;
-  <img src="./upload/logo-javascript.svg" width="48"/>
+  <img src="swift.svg" width="48"/>
   &nbsp; &nbsp;
-  <img src="./upload/react-2.svg" width="50"/>
-  &nbsp; &nbsp;
-  <img src="./upload/nextjs.svg" width="50"/>
+  <img src="swiftui.svg" width="48"/>
   &nbsp; &nbsp;
   <img src="./upload/flutter-logo.svg" width="40"/>
   &nbsp; &nbsp;
