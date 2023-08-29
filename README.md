@@ -29,4 +29,6 @@
   &nbsp; &nbsp;
   <img src="figma.svg" width="50"/>
   &nbsp; &nbsp;
+  <img src="spring.svg" width="50"/>
+  &nbsp; &nbsp;
 </p>
