@@ -9,10 +9,6 @@
 ### ⚡ Tools and Technologies
 
 <p>
-  <img src="html-1.svg" width="42"/>
-  &nbsp; &nbsp;
-  <img src="css-3.svg" width="42"/>
-  &nbsp; &nbsp;
   <img src="swift.svg" width="48"/>
   &nbsp; &nbsp;
   <img src="swiftui.svg" width="48"/>
