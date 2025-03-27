@@ -19,12 +19,8 @@
   &nbsp; &nbsp;
   <img src="dart.svg" width="50"/>
   &nbsp; &nbsp;
-  <img src="nodejs-1.svg" width="60"/>
-  &nbsp; &nbsp;
   <img src="gcp.svg" width="50"/>
   &nbsp; &nbsp;
   <img src="figma.svg" width="50"/>
-  &nbsp; &nbsp;
-  <img src="spring.svg" width="50"/>
   &nbsp; &nbsp;
 </p>
